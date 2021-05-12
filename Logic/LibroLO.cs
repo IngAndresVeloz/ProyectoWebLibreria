@@ -86,8 +86,8 @@ namespace Logic
 
 
         }
-        /*******************Consultar Video********************/
-        public LibroDis ConsultarVideo(string Identificador)
+        /*******************Consultar Libro********************/
+        public LibroDis ConsultarLibro(string Identificador)
         {
 
             SqlCommand comando = new SqlCommand();
